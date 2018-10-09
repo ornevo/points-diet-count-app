@@ -1,0 +1,26 @@
+{
+ "expo": {
+	"primaryColor": "#f4ffff",
+	"androidStatusBar": {
+		"barStyle": "dark-content",
+		"backgroundColor": "#f4ffff"
+	},
+  "name": "Points Counter",
+  "icon": "./media/icon.png",
+  "version": "1.1.0",
+  "slug": "pointscounter",
+  "sdkVersion": "27.0.0",
+  "ios": {
+    "bundleIdentifier": "com.yourcompany.yourappname"
+  },
+  "android": {
+		"icon": "./media/icon.png",
+    "package": "il.co.amatisdesign.pointscounter"
+  },
+	"splash": {
+		"image": "./media/splash.png",
+		"backgroundColor": "#f4ffff",
+		"resizeMode": "contain"
+	}
+ }
+}
